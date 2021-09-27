@@ -1,0 +1,75 @@
+body {
+	background-image: url(https://thumbs-prod.si-cdn.com/yw5cPxXmd9iOzemUtnukcQlU6c0=/fit-in/1600x0/https://public-media.si-cdn.com/filer/ba/f7/baf7b023-20d3-4d1e-8e7f-ca59c5089f81/42-18599721.jpg);
+	background-size: 1300px;
+	margin: 0px;
+	margin-top: 0px;
+}
+
+table, th, td{
+	border: 1px solid black;
+	padding:  10px;
+	border-collapse: collapse;
+}
+
+h1 {
+	font-family: Georgia, 'Times New Roman' Times, serif; 
+	font-size: 200%;
+	color: royalblue;
+}
+
+
+head {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+
+#bilde1 {
+	margin-right: 0px;
+	margin-left: 0px;
+	border-color: lightblue;
+	border-radius: 10px;
+
+}
+
+p {
+	font-family: serif;
+	color: royalblue;
+	text-shadow: black; 10px
+
+}
+a {
+	margin-left: 0px;
+
+
+}
+#toplist {
+	position: relative; top: -16px;
+    list-style-type: none;
+ 
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+}
+ 
+#topmenu {
+    float: left;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman' Times, serif;
+}
+ 
+#topmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+ 
+#topmenu a:hover {
+    background-color: powderblue;"
+}
+#topmenu.selected {
+    background-image: url(https://thumbs.dreamstime.com/b/abstract-brush-stroke-textured-background-stripe-fade-color-background-blue-brush-stroke-textured-background-stripe-fade-color-177017034.jpg);
+    opacity: 100%;
+}
